@@ -1,4 +1,7 @@
-# tutorial-vue
+# CRUD in VUEjs
+
+## [Live demo](https://iamabhijeet2003.github.io/crud-vue/)
+
 
 ## Project setup
 ```
